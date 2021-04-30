@@ -105,7 +105,7 @@ PACKAGE = "libpythonpro"
 NAME = PACKAGE
 DESCRIPTION = "Módulo para exemplificar construção de projetos Python no curso PyTools"
 AUTHOR = "Fabio Santos"
-AUTHOR_EMAIL = "0xfab1015@gmail.com
+AUTHOR_EMAIL = "0xfab1015@gmail.com"
 URL = "https://github.com/Fabio-Coder/libPythonPro"
 VERSION = __import__(PACKAGE).__version__
 
